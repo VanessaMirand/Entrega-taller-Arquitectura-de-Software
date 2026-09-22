@@ -1,0 +1,17 @@
+Files v1-condicionales/LiquidacionService.java and v1-condicionales-con-organico/LiquidacionService.java differ
+Files v1-condicionales/Main.java and v1-condicionales-con-organico/Main.java differ
+Files v2-estrategia/Main.java and v2-estrategia-con-organico/Main.java differ
+Only in v2-estrategia-con-organico: PoliticaOrganico.java
+Files v2-estrategia/Politicas.java and v2-estrategia-con-organico/Politicas.java differ
+Version con condicionales
+  PERGAMINO  humedad 11.5  malla 15 cert false -> paga 11,286,000
+  PERGAMINO  humedad 14.0  malla 15 cert false -> paga 10,716,000
+  EXCELSO    humedad 11.5  malla 17 cert false -> paga 11,742,000
+  ESPECIAL   humedad 11.5  malla 16 cert true  -> paga 12,198,000
+  ORGANICO   humedad 14.0  malla 15 cert true  -> paga 11,400,000
+Version con estrategias
+  PERGAMINO  humedad 11.5  malla 15 cert false -> paga 11,286,000
+  PERGAMINO  humedad 14.0  malla 15 cert false -> paga 10,716,000
+  EXCELSO    humedad 11.5  malla 17 cert false -> paga 11,742,000
+  ESPECIAL   humedad 11.5  malla 16 cert true  -> paga 12,198,000
+  ORGANICO   humedad 14.0  malla 15 cert true  -> paga 11,400,000
